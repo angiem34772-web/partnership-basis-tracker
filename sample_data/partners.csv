@@ -1,0 +1,26 @@
+partner_id,name,partner_type,admitted,admission_type
+P01,Alder Creek Family Trust,Trust,2008-01-01,Seed investor
+P02,Dana Whitfield,Individual,2008-01-01,Seed investor
+P03,Bramble Point Capital LLC,LLC,2008-01-01,Seed investor
+P04,Marcus Ellery,Individual,2008-01-01,Seed investor
+P05,Priya Raman,Individual,2008-01-01,Seed investor
+P06,Thornbury Holdings LLC,LLC,2009-04-01,Buy-in
+P07,Lena Okafor,Individual,2009-10-01,Buy-in
+P08,Gideon Marsh,Individual,2010-07-01,Buy-in
+P09,Copperleaf Ventures LLC,LLC,2011-01-01,Buy-in
+P10,Hollis Grant,Individual,2011-07-01,Buy-in
+P11,Wren Family Trust,Trust,2012-04-01,Buy-in
+P12,Sofia Delgado,Individual,2012-10-01,Buy-in
+P13,Northgate Partners LLC,LLC,2013-07-01,Buy-in
+P14,Ivan Petrov,Individual,2014-01-01,Buy-in
+P15,Juniper Lane Trust,Trust,2014-10-01,Buy-in
+P16,Caleb Fontaine,Individual,2015-04-01,Buy-in
+P17,Ridgeway Equity LLC,LLC,2016-01-01,Buy-in
+P18,Mei Tanaka,Individual,2016-10-01,Buy-in
+P19,Oakmont Family Trust,Trust,2017-07-01,Buy-in
+P20,Rafael Moreno,Individual,2018-01-01,Buy-in
+P21,Silverline Holdings LLC,LLC,2018-10-01,Buy-in
+P22,Nora Lindqvist,Individual,2019-04-01,Buy-in
+P23,Harbor Light Capital LLC,LLC,2020-01-01,Buy-in
+P24,Theo Vance,Individual,2020-10-01,Buy-in
+P25,Elm Street Family Trust,Trust,2021-07-01,Buy-in
