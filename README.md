@@ -146,6 +146,8 @@ output/               the generated Excel report
 
 I'm an Enrolled Agent (EA) and corporate tax analyst specializing in complex partnerships. I'm interested in roles where tax expertise meets automation and data.
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/angie-jenkins-ea).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
